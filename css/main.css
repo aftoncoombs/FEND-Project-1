@@ -1,0 +1,47 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: Roboto-Thin;
+  font-size: 16px;
+  color: #424242;
+}
+
+.header-text-name {
+	font-family: Roboto-Light;
+}
+
+.header-text-name {
+	font-size: 2em;
+}
+
+.header-text-ninja {
+	font-size: 1em;
+}
+
+/* Add a gray background color and some padding to the footer 
+	This code section borrowed from w3schools */
+footer {
+	background-color: #f2f2f2;
+	padding: 25px;
+}
+
+
+/* Remove the navbar's default margin-bottom and rounded borders 
+	This code section borrowed from w3schools */ 
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+	margin-top: 0;
+}
+
+.jumbotron {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border-bottom: 0;
+    min-height: 200px;
+}
